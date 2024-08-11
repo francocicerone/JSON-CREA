@@ -1,0 +1,4772 @@
+[
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "25 de Mayo",
+    "Código UTA 2020": "06854",
+    "Latitud": -35.2813845,
+    "Longitud": -60.2618183,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "9 de Julio",
+    "Código UTA 2020": "06588",
+    "Latitud": -35.6497312,
+    "Longitud": -61.0228986,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Adolfo Alsina",
+    "Código UTA 2020": "06007",
+    "Latitud": -37.046226443,
+    "Longitud": -63.266821042,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Adolfo Gonzales Chaves",
+    "Código UTA 2020": "06014",
+    "Latitud": -37.854450226,
+    "Longitud": -59.95879364,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Alberti",
+    "Código UTA 2020": "06021",
+    "Latitud": -35.237293243,
+    "Longitud": -60.303031921,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Almirante Brown",
+    "Código UTA 2020": "06028",
+    "Latitud": -34.801558074,
+    "Longitud": -58.391467719,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Arrecifes",
+    "Código UTA 2020": "06077",
+    "Latitud": -33.9628001,
+    "Longitud": -59.8615291,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Avellaneda",
+    "Código UTA 2020": "06035",
+    "Latitud": -34.675005648,
+    "Longitud": -58.310563425,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Ayacucho",
+    "Código UTA 2020": "06042",
+    "Latitud": -37.2159908,
+    "Longitud": -58.6862018,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Azul",
+    "Código UTA 2020": "06049",
+    "Latitud": -37.0314689,
+    "Longitud": -59.6042326,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Bahía Blanca",
+    "Código UTA 2020": "06056",
+    "Latitud": -38.683874619,
+    "Longitud": -62.215956312,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Balcarce",
+    "Código UTA 2020": "06063",
+    "Latitud": -37.5739424,
+    "Longitud": -58.6177189,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Baradero",
+    "Código UTA 2020": "06070",
+    "Latitud": -33.8417492,
+    "Longitud": -59.4518203,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Benito Juárez",
+    "Código UTA 2020": "06084",
+    "Latitud": -37.5763984,
+    "Longitud": -60.1392005,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Berazategui",
+    "Código UTA 2020": "06091",
+    "Latitud": -34.832640469,
+    "Longitud": -58.100841229,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Berisso",
+    "Código UTA 2020": "06098",
+    "Latitud": -34.845876055,
+    "Longitud": -57.879733357,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Bolivar",
+    "Código UTA 2020": "06105",
+    "Latitud": -36.002259,
+    "Longitud": -60.623087,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Bragado",
+    "Código UTA 2020": "06112",
+    "Latitud": -35.2410531,
+    "Longitud": -60.3474272,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Brandsen",
+    "Código UTA 2020": "06119",
+    "Latitud": -34.9854674,
+    "Longitud": -58.1762428,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Campana",
+    "Código UTA 2020": "06126",
+    "Latitud": -34.059934,
+    "Longitud": -58.836065,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Cañuelas",
+    "Código UTA 2020": "06134",
+    "Latitud": -35.2637758,
+    "Longitud": -58.6725328,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Capitán Sarmiento",
+    "Código UTA 2020": "06140",
+    "Latitud": -34.1731879,
+    "Longitud": -59.9792421,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Carlos Casares",
+    "Código UTA 2020": "06147",
+    "Latitud": -35.83601,
+    "Longitud": -61.43436,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Carlos Tejedor",
+    "Código UTA 2020": "06154",
+    "Latitud": -35.263763428,
+    "Longitud": -62.677410126,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Carmen De Areco",
+    "Código UTA 2020": "06161",
+    "Latitud": -34.4145467,
+    "Longitud": -59.8540512,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Castelli",
+    "Código UTA 2020": "06168",
+    "Latitud": -36.1352289,
+    "Longitud": -57.7158097,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Chacabuco",
+    "Código UTA 2020": "06210",
+    "Latitud": -34.66495,
+    "Longitud": -60.441390001,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Chascomus",
+    "Código UTA 2020": "06217",
+    "Latitud": -35.4916042,
+    "Longitud": -57.8945611,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Chivilcoy",
+    "Código UTA 2020": "06224",
+    "Latitud": -34.9440654,
+    "Longitud": -60.1765372,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Colón",
+    "Código UTA 2020": "06175",
+    "Latitud": -33.970424262,
+    "Longitud": -61.076205346,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Coronel de Marina Leandro Rosales",
+    "Código UTA 2020": "06182",
+    "Latitud": -38.93877,
+    "Longitud": -61.96122,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Coronel Dorrego",
+    "Código UTA 2020": "06189",
+    "Latitud": -38.7655502,
+    "Longitud": -61.4127594,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Coronel Pringles",
+    "Código UTA 2020": "06196",
+    "Latitud": -37.9951979,
+    "Longitud": -60.8897785,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Coronel Suárez",
+    "Código UTA 2020": "06203",
+    "Latitud": -37.6402741,
+    "Longitud": -62.0066225,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Daireaux",
+    "Código UTA 2020": "06231",
+    "Latitud": -36.752182007,
+    "Longitud": -61.815643311,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Dolores",
+    "Código UTA 2020": "06238",
+    "Latitud": -36.3899064,
+    "Longitud": -57.6947905,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Ensenada",
+    "Código UTA 2020": "06245",
+    "Latitud": -34.875848555,
+    "Longitud": -57.933629899,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Escobar",
+    "Código UTA 2020": "06252",
+    "Latitud": -34.3007971,
+    "Longitud": -58.7215474,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Esteban Echeverría",
+    "Código UTA 2020": "06260",
+    "Latitud": -34.884979135,
+    "Longitud": -58.477809937,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Exaltación de la Cruz",
+    "Código UTA 2020": "06266",
+    "Latitud": -34.2240131,
+    "Longitud": -59.232576,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Ezeiza",
+    "Código UTA 2020": "06270",
+    "Latitud": -34.9645699,
+    "Longitud": -58.5460971,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Florencio Varela",
+    "Código UTA 2020": "06274",
+    "Latitud": -34.827580703,
+    "Longitud": -58.222912004,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Florentino Ameghino",
+    "Código UTA 2020": "06277",
+    "Latitud": -34.816707094,
+    "Longitud": -62.449682981,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Alvarado",
+    "Código UTA 2020": "06280",
+    "Latitud": -38.222449169,
+    "Longitud": -57.895726732,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Alvear",
+    "Código UTA 2020": "06287",
+    "Latitud": -36.0095752,
+    "Longitud": -60.2101369,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Arenales",
+    "Código UTA 2020": "06294",
+    "Latitud": -34.3397918,
+    "Longitud": -61.3746941,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Belgrano",
+    "Código UTA 2020": "06301",
+    "Latitud": -35.834410002,
+    "Longitud": -58.477360025,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Guido",
+    "Código UTA 2020": "06308",
+    "Latitud": -36.6656205,
+    "Longitud": -58.0745242,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Juan Madariaga",
+    "Código UTA 2020": "06315",
+    "Latitud": -37.024627686,
+    "Longitud": -56.956073761,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General La Madrid",
+    "Código UTA 2020": "06322",
+    "Latitud": -37.530620575,
+    "Longitud": -61.569114685,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Las Heras",
+    "Código UTA 2020": "06329",
+    "Latitud": -34.8223015,
+    "Longitud": -59.1343749,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Lavalle",
+    "Código UTA 2020": "06336",
+    "Latitud": -36.554420636,
+    "Longitud": -57.077420575,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Paz",
+    "Código UTA 2020": "06343",
+    "Latitud": -35.451905725,
+    "Longitud": -58.269541772,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Pinto",
+    "Código UTA 2020": "06351",
+    "Latitud": -34.8011277,
+    "Longitud": -61.8636453,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Pueyrredón",
+    "Código UTA 2020": "06357",
+    "Latitud": -37.807662538,
+    "Longitud": -57.629890858,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Rodríguez",
+    "Código UTA 2020": "06364",
+    "Latitud": -34.721174062,
+    "Longitud": -59.011601578,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General San Martín",
+    "Código UTA 2020": "06371",
+    "Latitud": -34.567343377,
+    "Longitud": -58.584311246,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Viamonte",
+    "Código UTA 2020": "06385",
+    "Latitud": -35.1438182,
+    "Longitud": -61.2992596,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "General Villegas",
+    "Código UTA 2020": "06392",
+    "Latitud": -34.8579191,
+    "Longitud": -63.1611931,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Guaminí",
+    "Código UTA 2020": "06399",
+    "Latitud": -36.894233704,
+    "Longitud": -62.356311798,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Hipólito Yrigoyen",
+    "Código UTA 2020": "06406",
+    "Latitud": -36.1793412,
+    "Longitud": -61.6445672,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Hurlingham",
+    "Código UTA 2020": "06408",
+    "Latitud": -34.593093136,
+    "Longitud": -58.635720951,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Ituzaingó",
+    "Código UTA 2020": "06410",
+    "Latitud": -34.644055116,
+    "Longitud": -58.688489333,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "José C. Paz",
+    "Código UTA 2020": "06412",
+    "Latitud": -34.480495795,
+    "Longitud": -58.804258898,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Junín",
+    "Código UTA 2020": "06413",
+    "Latitud": -34.5109222,
+    "Longitud": -60.865793,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "La Costa",
+    "Código UTA 2020": "06420",
+    "Latitud": -36.488397629,
+    "Longitud": -56.700435258,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "La Matanza",
+    "Código UTA 2020": "06427",
+    "Latitud": -34.714172889,
+    "Longitud": -58.508904377,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "La Plata",
+    "Código UTA 2020": "06441",
+    "Latitud": -35.038806067,
+    "Longitud": -58.059306162,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lanús",
+    "Código UTA 2020": "06434",
+    "Latitud": -34.69095715,
+    "Longitud": -58.383862849,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Laprida",
+    "Código UTA 2020": "06448",
+    "Latitud": -37.52471,
+    "Longitud": -60.961140001,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Las Flores",
+    "Código UTA 2020": "06455",
+    "Latitud": -36.3036243,
+    "Longitud": -59.3193839,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Leandro N. Alem",
+    "Código UTA 2020": "06462",
+    "Latitud": -34.4448464,
+    "Longitud": -61.3192363,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lezama",
+    "Código UTA 2020": "06466",
+    "Latitud": -35.874824873,
+    "Longitud": -57.896422676,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lincoln",
+    "Código UTA 2020": "06469",
+    "Latitud": -35.4981702,
+    "Longitud": -61.8064882,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lobería",
+    "Código UTA 2020": "06476",
+    "Latitud": -37.7714343,
+    "Longitud": -58.6447231,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lobos",
+    "Código UTA 2020": "06483",
+    "Latitud": -35.2649767,
+    "Longitud": -59.0698098,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Lomas De Zamora",
+    "Código UTA 2020": "06490",
+    "Latitud": -34.737902715,
+    "Longitud": -58.440675369,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Luján",
+    "Código UTA 2020": "06497",
+    "Latitud": -34.4619848,
+    "Longitud": -59.1744878,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Magdalena",
+    "Código UTA 2020": "06505",
+    "Latitud": -35.175444975,
+    "Longitud": -57.518948583,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Maipú",
+    "Código UTA 2020": "06511",
+    "Latitud": -37.0161454,
+    "Longitud": -57.4884889,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Malvinas Argentinas",
+    "Código UTA 2020": "06515",
+    "Latitud": -34.454455058,
+    "Longitud": -58.706241741,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Mar Chiquita",
+    "Código UTA 2020": "06518",
+    "Latitud": -37.4842367,
+    "Longitud": -57.4365959,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Marcos Paz",
+    "Código UTA 2020": "06525",
+    "Latitud": -34.776242,
+    "Longitud": -58.9395696,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Mercedes",
+    "Código UTA 2020": "06532",
+    "Latitud": -34.645015717,
+    "Longitud": -59.359275818,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Merlo",
+    "Código UTA 2020": "06539",
+    "Latitud": -34.708542242,
+    "Longitud": -58.679586725,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Monte",
+    "Código UTA 2020": "06547",
+    "Latitud": -35.5785579,
+    "Longitud": -58.9391774,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Monte Hermoso",
+    "Código UTA 2020": "06553",
+    "Latitud": -38.995357691,
+    "Longitud": -61.215201593,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Moreno",
+    "Código UTA 2020": "06560",
+    "Latitud": -34.558659572,
+    "Longitud": -58.816301089,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Morón",
+    "Código UTA 2020": "06568",
+    "Latitud": -34.664413103,
+    "Longitud": -58.645642712,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Navarro",
+    "Código UTA 2020": "06574",
+    "Latitud": -35.0117915,
+    "Longitud": -59.4247779,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Necochea",
+    "Código UTA 2020": "06581",
+    "Latitud": -38.085516,
+    "Longitud": -59.2924177,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Olavarría",
+    "Código UTA 2020": "06595",
+    "Latitud": -36.8410918,
+    "Longitud": -60.4478581,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Patagones",
+    "Código UTA 2020": "06602",
+    "Latitud": -40.8136857,
+    "Longitud": -62.6629984,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pehuajó",
+    "Código UTA 2020": "06609",
+    "Latitud": -35.6179927,
+    "Longitud": -62.0046671,
+    "Región CREA": "Oeste",
+    "Región ID": "OES"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pellegrini",
+    "Código UTA 2020": "06616",
+    "Latitud": -36.3151294,
+    "Longitud": -63.2094531,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pergamino",
+    "Código UTA 2020": "06623",
+    "Latitud": -33.5893048,
+    "Longitud": -60.7727646,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pila",
+    "Código UTA 2020": "06630",
+    "Latitud": -36.097606751,
+    "Longitud": -58.098558707,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pilar",
+    "Código UTA 2020": "06638",
+    "Latitud": -34.422005581,
+    "Longitud": -58.952837882,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Pinamar",
+    "Código UTA 2020": "06644",
+    "Latitud": -37.164159375,
+    "Longitud": -56.902791438,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Presidente Peron",
+    "Código UTA 2020": "06648",
+    "Latitud": -34.9075871,
+    "Longitud": -58.4348955,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Puán",
+    "Código UTA 2020": "06651",
+    "Latitud": -38.2787652,
+    "Longitud": -63.308047,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Punta Indio",
+    "Código UTA 2020": "06655",
+    "Latitud": -35.350566,
+    "Longitud": -57.297616,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Quilmes",
+    "Código UTA 2020": "06658",
+    "Latitud": -34.700378406,
+    "Longitud": -58.276642782,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Ramallo",
+    "Código UTA 2020": "06665",
+    "Latitud": -33.6241496,
+    "Longitud": -60.0461017,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Rauch",
+    "Código UTA 2020": "06672",
+    "Latitud": -36.3845307,
+    "Longitud": -59.0051146,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Rivadavia",
+    "Código UTA 2020": "06679",
+    "Latitud": -35.4640821,
+    "Longitud": -62.8552805,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Rojas",
+    "Código UTA 2020": "06686",
+    "Latitud": -34.2433108,
+    "Longitud": -60.532499,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Roque Perez",
+    "Código UTA 2020": "06693",
+    "Latitud": -35.41999054,
+    "Longitud": -59.665016176,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Saavedra",
+    "Código UTA 2020": "06700",
+    "Latitud": -37.724466063,
+    "Longitud": -62.10173503,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Saladillo",
+    "Código UTA 2020": "06707",
+    "Latitud": -35.6504504,
+    "Longitud": -59.8096018,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Salliquelo",
+    "Código UTA 2020": "06721",
+    "Latitud": -36.568990828,
+    "Longitud": -63.087622957,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Salto",
+    "Código UTA 2020": "06714",
+    "Latitud": -34.1554316,
+    "Longitud": -60.4724629,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Andres De Giles",
+    "Código UTA 2020": "06728",
+    "Latitud": -34.387887,
+    "Longitud": -59.4326743,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Antonio De Areco",
+    "Código UTA 2020": "06735",
+    "Latitud": -34.2881384,
+    "Longitud": -59.5070413,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Cayetano",
+    "Código UTA 2020": "06742",
+    "Latitud": -38.674057696,
+    "Longitud": -59.499359487,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Fernando",
+    "Código UTA 2020": "06749",
+    "Latitud": -34.2256455,
+    "Longitud": -58.5931568,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Isidro",
+    "Código UTA 2020": "06756",
+    "Latitud": -34.479401812,
+    "Longitud": -58.5074044,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Miguel",
+    "Código UTA 2020": "06760",
+    "Latitud": -34.575140152,
+    "Longitud": -58.696040989,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Nicolás",
+    "Código UTA 2020": "06763",
+    "Latitud": -33.6042287,
+    "Longitud": -60.4178226,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Pedro",
+    "Código UTA 2020": "06770",
+    "Latitud": -33.6362648,
+    "Longitud": -59.7862782,
+    "Región CREA": "Norte de Buenos Aires",
+    "Región ID": "NBA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "San Vicente",
+    "Código UTA 2020": "06778",
+    "Latitud": -35.183110002,
+    "Longitud": -58.452410024,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Suipacha",
+    "Código UTA 2020": "06784",
+    "Latitud": -34.7224296,
+    "Longitud": -59.7512909,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tandil",
+    "Código UTA 2020": "06791",
+    "Latitud": -37.350270395,
+    "Longitud": -59.078732973,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tapalqué",
+    "Código UTA 2020": "06798",
+    "Latitud": -36.475682,
+    "Longitud": -60.1222218,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tigre",
+    "Código UTA 2020": "06805",
+    "Latitud": -34.3277116,
+    "Longitud": -58.608687,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tordillo",
+    "Código UTA 2020": "06812",
+    "Latitud": -36.4708183,
+    "Longitud": -57.1914178,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tornquist",
+    "Código UTA 2020": "06819",
+    "Latitud": -38.41312,
+    "Longitud": -62.79452,
+    "Región CREA": "Sudoeste",
+    "Región ID": "SUO"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Trenque Lauquen",
+    "Código UTA 2020": "06826",
+    "Latitud": -36.0383096,
+    "Longitud": -62.8210281,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tres Arroyos",
+    "Código UTA 2020": "06833",
+    "Latitud": -38.2667152,
+    "Longitud": -60.4002814,
+    "Región CREA": "Mar y Sierras",
+    "Región ID": "MYS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tres de Febrero",
+    "Código UTA 2020": "06840",
+    "Latitud": -34.608872951,
+    "Longitud": -58.563664457,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Tres Lomas",
+    "Código UTA 2020": "06847",
+    "Latitud": -36.499723,
+    "Longitud": -62.6930571,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Vicente Lopez",
+    "Código UTA 2020": "06861",
+    "Latitud": -34.525914969,
+    "Longitud": -58.535763943,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Villa Gesell",
+    "Código UTA 2020": "06868",
+    "Latitud": -37.336673158,
+    "Longitud": -57.032501469,
+    "Región CREA": "Sudeste",
+    "Región ID": "SDE"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Villarino",
+    "Código UTA 2020": "06875",
+    "Latitud": -39.4323988,
+    "Longitud": -62.9350751,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de Buenos Aires",
+    "Nombre": "Zárate",
+    "Código UTA 2020": "06882",
+    "Latitud": -33.9804188,
+    "Longitud": -59.2846864,
+    "Región CREA": "Este",
+    "Región ID": "EST"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Ambato",
+    "Código UTA 2020": "10007",
+    "Latitud": -27.89856,
+    "Longitud": -65.97863,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Ancasti",
+    "Código UTA 2020": "10014",
+    "Latitud": -28.926935319,
+    "Longitud": -65.520772291,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Andalgalá",
+    "Código UTA 2020": "10021",
+    "Latitud": -27.619059558,
+    "Longitud": -66.115185422,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Antofagasta de la Sierra",
+    "Código UTA 2020": "10028",
+    "Latitud": -25.246114731,
+    "Longitud": -67.520767212,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Belén",
+    "Código UTA 2020": "10035",
+    "Latitud": -26.94426,
+    "Longitud": -66.73487,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Capayán",
+    "Código UTA 2020": "10042",
+    "Latitud": -29.025346811,
+    "Longitud": -66.003835459,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Capital",
+    "Código UTA 2020": "10049",
+    "Latitud": -28.332107544,
+    "Longitud": -65.894065857,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "El Alto",
+    "Código UTA 2020": "10056",
+    "Latitud": -28.37478,
+    "Longitud": -65.15865,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Fray Mamerto Esquiú",
+    "Código UTA 2020": "10063",
+    "Latitud": -28.301939011,
+    "Longitud": -65.72743988,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "La Paz",
+    "Código UTA 2020": "10070",
+    "Latitud": -28.71805191,
+    "Longitud": -65.296485901,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Paclin",
+    "Código UTA 2020": "10077",
+    "Latitud": -27.854732513,
+    "Longitud": -65.717269898,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Pomán",
+    "Código UTA 2020": "10084",
+    "Latitud": -28.33781745,
+    "Longitud": -66.54987231,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Santa María",
+    "Código UTA 2020": "10091",
+    "Latitud": -26.794689249,
+    "Longitud": -66.483496437,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Santa Rosa",
+    "Código UTA 2020": "10098",
+    "Latitud": -28.045031938,
+    "Longitud": -65.278456151,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Tinogasta",
+    "Código UTA 2020": "10105",
+    "Latitud": -27.092108466,
+    "Longitud": -67.818961519,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Catamarca",
+    "Nombre": "Valle Viejo",
+    "Código UTA 2020": "10112",
+    "Latitud": -28.560608532,
+    "Longitud": -65.780337085,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "1° de Mayo",
+    "Código UTA 2020": "22126",
+    "Latitud": -27.228550345,
+    "Longitud": -58.904050775,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "12 de octubre",
+    "Código UTA 2020": "22036",
+    "Latitud": -27.34587947,
+    "Longitud": -61.4341435,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "2 de Abril",
+    "Código UTA 2020": "22039",
+    "Latitud": -27.597486358,
+    "Longitud": -61.131970665,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "25 de Mayo",
+    "Código UTA 2020": "22168",
+    "Latitud": -26.612934657,
+    "Longitud": -59.904048807,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "9 de Julio",
+    "Código UTA 2020": "22105",
+    "Latitud": -27.017018676,
+    "Longitud": -61.187428084,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Almirante Brown",
+    "Código UTA 2020": "22007",
+    "Latitud": -25.534456253,
+    "Longitud": -62.852661133,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Bermejo",
+    "Código UTA 2020": "22014",
+    "Latitud": -26.921750385,
+    "Longitud": -58.778745968,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Chacabuco",
+    "Código UTA 2020": "22028",
+    "Latitud": -27.376891185,
+    "Longitud": -60.858685319,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Comandante Fernández",
+    "Código UTA 2020": "22021",
+    "Latitud": -26.9538276,
+    "Longitud": -60.51530921,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Fray Justo Santa María de Oro",
+    "Código UTA 2020": "22043",
+    "Latitud": -27.867498663,
+    "Longitud": -61.325403043,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "General Belgrano",
+    "Código UTA 2020": "22049",
+    "Latitud": -26.965077007,
+    "Longitud": -61.030713589,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "General Donovan",
+    "Código UTA 2020": "22056",
+    "Latitud": -27.1738508,
+    "Longitud": -59.26113326,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "General Güemes",
+    "Código UTA 2020": "22063",
+    "Latitud": -25.704138218,
+    "Longitud": -61.031502727,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Independencia",
+    "Código UTA 2020": "22070",
+    "Latitud": -26.524236939,
+    "Longitud": -60.571935257,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Libertad",
+    "Código UTA 2020": "22077",
+    "Latitud": -27.269456708,
+    "Longitud": -59.211222328,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Libertador General San Martín",
+    "Código UTA 2020": "22084",
+    "Latitud": -26.514810346,
+    "Longitud": -59.225561265,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Maipú",
+    "Código UTA 2020": "22091",
+    "Latitud": -26.164279026,
+    "Longitud": -60.55151954,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Mayor Luis J. Fontana",
+    "Código UTA 2020": "22098",
+    "Latitud": -27.689552867,
+    "Longitud": -60.834887832,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "O'Higgins",
+    "Código UTA 2020": "22112",
+    "Latitud": -27.282306249,
+    "Longitud": -60.802376761,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Presidencia de la Plaza",
+    "Código UTA 2020": "22119",
+    "Latitud": -26.84889313,
+    "Longitud": -59.87023116,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Quitilipi",
+    "Código UTA 2020": "22133",
+    "Latitud": -26.99698694,
+    "Longitud": -60.33777397,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "San Fernando",
+    "Código UTA 2020": "22140",
+    "Latitud": -27.925615311,
+    "Longitud": -59.31798172,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "San Lorenzo",
+    "Código UTA 2020": "22147",
+    "Latitud": -27.252048067,
+    "Longitud": -60.516104742,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Sargento Cabral",
+    "Código UTA 2020": "22154",
+    "Latitud": -26.599502096,
+    "Longitud": -59.748676426,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Chaco",
+    "Nombre": "Tapenaga",
+    "Código UTA 2020": "22161",
+    "Latitud": -27.778495788,
+    "Longitud": -59.604564666,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Biedma",
+    "Código UTA 2020": "26007",
+    "Latitud": -42.329257965,
+    "Longitud": -65.631347656,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Cushamen",
+    "Código UTA 2020": "26014",
+    "Latitud": -42.03927359,
+    "Longitud": -71.56551616,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Escalante",
+    "Código UTA 2020": "26021",
+    "Latitud": -45.89050293,
+    "Longitud": -68.068969727,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Florentino Ameghino",
+    "Código UTA 2020": "26028",
+    "Latitud": -44.338169098,
+    "Longitud": -65.236175537,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Futaleufú",
+    "Código UTA 2020": "26035",
+    "Latitud": -43.48395319,
+    "Longitud": -71.59418478,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Gaiman",
+    "Código UTA 2020": "26042",
+    "Latitud": -43.33395568,
+    "Longitud": -65.47259113,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Gastre",
+    "Código UTA 2020": "26049",
+    "Latitud": -42.841125488,
+    "Longitud": -68.456611633,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Languiñeo",
+    "Código UTA 2020": "26056",
+    "Latitud": -42.66468787,
+    "Longitud": -70.44354981,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Martires",
+    "Código UTA 2020": "26063",
+    "Latitud": -43.690174103,
+    "Longitud": -67.194381714,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Paso de Indios",
+    "Código UTA 2020": "26070",
+    "Latitud": -44.465560913,
+    "Longitud": -68.474082947,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Rawson",
+    "Código UTA 2020": "26077",
+    "Latitud": -43.315554025,
+    "Longitud": -65.3717721,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Río Senguer",
+    "Código UTA 2020": "26084",
+    "Latitud": -45.68628224,
+    "Longitud": -70.26062851,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Sarmiento",
+    "Código UTA 2020": "26091",
+    "Latitud": -45.597201576,
+    "Longitud": -69.14443499,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Tehuelches",
+    "Código UTA 2020": "26098",
+    "Latitud": -43.827476502,
+    "Longitud": -69.90713501,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de CHUBUT",
+    "Nombre": "Telsen",
+    "Código UTA 2020": "26105",
+    "Latitud": -42.770240784,
+    "Longitud": -67.66608429,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Ciudad Autónoma de Buenos Aires",
+    "Código UTA 2020": "02000",
+    "Latitud": -34.613291729,
+    "Longitud": -58.388751736,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 1",
+    "Código UTA 2020": "02001",
+    "Latitud": -34.625047864,
+    "Longitud": -58.384387226,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 10",
+    "Código UTA 2020": "02010",
+    "Latitud": -34.627686291,
+    "Longitud": -58.483587278,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 11",
+    "Código UTA 2020": "02011",
+    "Latitud": -34.6042463,
+    "Longitud": -58.490676432,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 12",
+    "Código UTA 2020": "02012",
+    "Latitud": -34.560625135,
+    "Longitud": -58.474944746,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 13",
+    "Código UTA 2020": "02013",
+    "Latitud": -34.554881524,
+    "Longitud": -58.450289095,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 14",
+    "Código UTA 2020": "02014",
+    "Latitud": -34.573899984,
+    "Longitud": -58.422436452,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 15",
+    "Código UTA 2020": "02015",
+    "Latitud": -34.592944247,
+    "Longitud": -58.488671416,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 2",
+    "Código UTA 2020": "02002",
+    "Latitud": -34.585876008,
+    "Longitud": -58.39499618,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 3",
+    "Código UTA 2020": "02003",
+    "Latitud": -34.609099774,
+    "Longitud": -58.40306252,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 4",
+    "Código UTA 2020": "02004",
+    "Latitud": -34.646413551,
+    "Longitud": -58.384271032,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 5",
+    "Código UTA 2020": "02005",
+    "Latitud": -34.609227689,
+    "Longitud": -58.421745225,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 6",
+    "Código UTA 2020": "02006",
+    "Latitud": -34.6168255,
+    "Longitud": -58.44360311,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 7",
+    "Código UTA 2020": "02007",
+    "Latitud": -34.63680708,
+    "Longitud": -58.458269851,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 8",
+    "Código UTA 2020": "02008",
+    "Latitud": -34.674993579,
+    "Longitud": -58.476162985,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Ciudad Autónoma de Buenos Aires",
+    "Nombre": "Comuna 9",
+    "Código UTA 2020": "02009",
+    "Latitud": -34.643796083,
+    "Longitud": -58.519129896,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Calamuchita",
+    "Código UTA 2020": "14007",
+    "Latitud": -32.092862143,
+    "Longitud": -64.563878452,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Capital",
+    "Código UTA 2020": "14014",
+    "Latitud": -31.478788376,
+    "Longitud": -64.145095825,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Colón",
+    "Código UTA 2020": "14021",
+    "Latitud": -31.256244809,
+    "Longitud": -63.953403942,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Cruz del Eje",
+    "Código UTA 2020": "14028",
+    "Latitud": -31.0893001,
+    "Longitud": -65.0484771,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "General Roca",
+    "Código UTA 2020": "14035",
+    "Latitud": -34.8188719,
+    "Longitud": -63.3857113,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "General San Martín",
+    "Código UTA 2020": "14042",
+    "Latitud": -32.341236927,
+    "Longitud": -62.996217056,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Ischilín",
+    "Código UTA 2020": "14049",
+    "Latitud": -30.643234976,
+    "Longitud": -64.498512768,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Juárez Celman",
+    "Código UTA 2020": "14056",
+    "Latitud": -33.3160107,
+    "Longitud": -63.2538219,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Marcos Juárez",
+    "Código UTA 2020": "14063",
+    "Latitud": -32.62947464,
+    "Longitud": -62.309131622,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Minas",
+    "Código UTA 2020": "14070",
+    "Latitud": -30.849700273,
+    "Longitud": -65.365090379,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Pocho",
+    "Código UTA 2020": "14077",
+    "Latitud": -31.319328308,
+    "Longitud": -65.617858887,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Presidente Roque Sáenz Peña",
+    "Código UTA 2020": "14084",
+    "Latitud": -33.904690547,
+    "Longitud": -63.83804658,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Punilla",
+    "Código UTA 2020": "14091",
+    "Latitud": -31.105800629,
+    "Longitud": -64.591285706,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Río Cuarto",
+    "Código UTA 2020": "14098",
+    "Latitud": -32.647510949,
+    "Longitud": -64.221418594,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Río Primero",
+    "Código UTA 2020": "14105",
+    "Latitud": -30.805935463,
+    "Longitud": -63.173242925,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Río Seco",
+    "Código UTA 2020": "14112",
+    "Latitud": -29.8135599,
+    "Longitud": -63.75524,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Río Segundo",
+    "Código UTA 2020": "14119",
+    "Latitud": -31.597730006,
+    "Longitud": -63.245539405,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "San Alberto",
+    "Código UTA 2020": "14126",
+    "Latitud": -31.790562747,
+    "Longitud": -65.167101871,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "San Javier",
+    "Código UTA 2020": "14133",
+    "Latitud": -32.01613487,
+    "Longitud": -65.163820049,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "San Justo",
+    "Código UTA 2020": "14140",
+    "Latitud": -31.234003736,
+    "Longitud": -62.740666131,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Santa María",
+    "Código UTA 2020": "14147",
+    "Latitud": -31.55910043,
+    "Longitud": -64.19196866,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Sobremonte",
+    "Código UTA 2020": "14154",
+    "Latitud": -29.616354941,
+    "Longitud": -64.062436384,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Tercero Arriba",
+    "Código UTA 2020": "14161",
+    "Latitud": -32.252891508,
+    "Longitud": -64.251432088,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Totoral",
+    "Código UTA 2020": "14168",
+    "Latitud": -30.81785967,
+    "Longitud": -64.211850181,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Tulumba",
+    "Código UTA 2020": "14175",
+    "Latitud": -29.982391401,
+    "Longitud": -64.490007826,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Córdoba",
+    "Nombre": "Unión",
+    "Código UTA 2020": "14182",
+    "Latitud": -33.4792553,
+    "Longitud": -62.9564065,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Bella Vista",
+    "Código UTA 2020": "18007",
+    "Latitud": -28.489517068,
+    "Longitud": -59.034120641,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Berón de Astrada",
+    "Código UTA 2020": "18014",
+    "Latitud": -27.464210061,
+    "Longitud": -57.464626522,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Capital",
+    "Código UTA 2020": "18021",
+    "Latitud": -27.4064,
+    "Longitud": -58.782760001,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Concepción",
+    "Código UTA 2020": "18028",
+    "Latitud": -28.268879386,
+    "Longitud": -58.121856392,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Curuzú Cuatiá",
+    "Código UTA 2020": "18035",
+    "Latitud": -29.309599765,
+    "Longitud": -58.51285545,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Empedrado",
+    "Código UTA 2020": "18042",
+    "Latitud": -27.70578113,
+    "Longitud": -58.68808341,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Esquina",
+    "Código UTA 2020": "18049",
+    "Latitud": -30.0784368,
+    "Longitud": -59.4055912,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "General Alvear",
+    "Código UTA 2020": "18056",
+    "Latitud": -29.106201172,
+    "Longitud": -56.559669495,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "General Paz",
+    "Código UTA 2020": "18063",
+    "Latitud": -27.705562904,
+    "Longitud": -57.794965844,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Goya",
+    "Código UTA 2020": "18070",
+    "Latitud": -29.175124402,
+    "Longitud": -58.889820541,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Itatí",
+    "Código UTA 2020": "18077",
+    "Latitud": -27.351966147,
+    "Longitud": -57.873936254,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Ituzaingó",
+    "Código UTA 2020": "18084",
+    "Latitud": -27.715914491,
+    "Longitud": -56.94751639,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Lavalle",
+    "Código UTA 2020": "18091",
+    "Latitud": -28.9356733,
+    "Longitud": -58.8052348,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Mburucuyá",
+    "Código UTA 2020": "18098",
+    "Latitud": -27.957044103,
+    "Longitud": -57.937049714,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Mercedes",
+    "Código UTA 2020": "18105",
+    "Latitud": -29.060000001,
+    "Longitud": -57.760000021,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Monte Caseros",
+    "Código UTA 2020": "18112",
+    "Latitud": -30.47490444,
+    "Longitud": -57.98344137,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Paso de los Libres",
+    "Código UTA 2020": "18119",
+    "Latitud": -29.87793885,
+    "Longitud": -57.53288465,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Saladas",
+    "Código UTA 2020": "18126",
+    "Latitud": -28.320760537,
+    "Longitud": -58.546449426,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "San Cosme",
+    "Código UTA 2020": "18133",
+    "Latitud": -27.363933134,
+    "Longitud": -58.661982433,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "San Luis del Palmar",
+    "Código UTA 2020": "18140",
+    "Latitud": -27.41325145,
+    "Longitud": -58.37888858,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "San Martín",
+    "Código UTA 2020": "18147",
+    "Latitud": -29.361106301,
+    "Longitud": -56.802426101,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "San Miguel",
+    "Código UTA 2020": "18154",
+    "Latitud": -27.781728535,
+    "Longitud": -57.311626934,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "San Roque",
+    "Código UTA 2020": "18161",
+    "Latitud": -28.883931336,
+    "Longitud": -58.78485627,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Santo Tomé",
+    "Código UTA 2020": "18168",
+    "Latitud": -28.518781665,
+    "Longitud": -56.055442891,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Corrientes",
+    "Nombre": "Sauce",
+    "Código UTA 2020": "18175",
+    "Latitud": -29.988078116,
+    "Longitud": -58.535707658,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Colón",
+    "Código UTA 2020": "30008",
+    "Latitud": -31.70735861,
+    "Longitud": -58.28660961,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Concordia",
+    "Código UTA 2020": "30015",
+    "Latitud": -31.352304459,
+    "Longitud": -58.05355072,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Diamante",
+    "Código UTA 2020": "30021",
+    "Latitud": -32.011978035,
+    "Longitud": -60.61726225,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Federación",
+    "Código UTA 2020": "30028",
+    "Latitud": -30.706810067,
+    "Longitud": -57.887849136,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Federal",
+    "Código UTA 2020": "30035",
+    "Latitud": -30.971937142,
+    "Longitud": -58.993275987,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Feliciano",
+    "Código UTA 2020": "30042",
+    "Latitud": -30.429341534,
+    "Longitud": -58.76618814,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Gualeguay",
+    "Código UTA 2020": "30049",
+    "Latitud": -33.558718237,
+    "Longitud": -59.480520131,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Gualeguaychú",
+    "Código UTA 2020": "30056",
+    "Latitud": -33.154505087,
+    "Longitud": -58.988901125,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Islas del Ibicuy",
+    "Código UTA 2020": "30063",
+    "Latitud": -33.778770704,
+    "Longitud": -58.54070986,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "La Paz",
+    "Código UTA 2020": "30070",
+    "Latitud": -30.60360412,
+    "Longitud": -59.52751986,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Nogoyá",
+    "Código UTA 2020": "30077",
+    "Latitud": -32.172979005,
+    "Longitud": -59.563413013,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Paraná",
+    "Código UTA 2020": "30084",
+    "Latitud": -31.885412846,
+    "Longitud": -60.234448335,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "San Salvador",
+    "Código UTA 2020": "30088",
+    "Latitud": -31.593985089,
+    "Longitud": -58.371160151,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Tala",
+    "Código UTA 2020": "30091",
+    "Latitud": -31.99620378,
+    "Longitud": -59.24649058,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Uruguay",
+    "Código UTA 2020": "30098",
+    "Latitud": -32.380954743,
+    "Longitud": -58.236881266,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Victoria",
+    "Código UTA 2020": "30105",
+    "Latitud": -32.957337,
+    "Longitud": -60.049086,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Entre Ríos",
+    "Nombre": "Villaguay",
+    "Código UTA 2020": "30113",
+    "Latitud": -31.77167964,
+    "Longitud": -59.570914493,
+    "Región CREA": "Litoral Sur",
+    "Región ID": "LIS"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Bermejo",
+    "Código UTA 2020": "34007",
+    "Latitud": -23.755783081,
+    "Longitud": -61.170639038,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Formosa",
+    "Código UTA 2020": "34014",
+    "Latitud": -25.738264083,
+    "Longitud": -57.920059208,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Laishi",
+    "Código UTA 2020": "34021",
+    "Latitud": -26.652492523,
+    "Longitud": -58.341789248,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Matacos",
+    "Código UTA 2020": "34028",
+    "Latitud": -23.675008774,
+    "Longitud": -62.312923431,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Patiño",
+    "Código UTA 2020": "34035",
+    "Latitud": -24.61192,
+    "Longitud": -60.300329999,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Pilagas",
+    "Código UTA 2020": "34042",
+    "Latitud": -24.9895438,
+    "Longitud": -58.6912886,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Pilcomayo",
+    "Código UTA 2020": "34049",
+    "Latitud": -25.117113113,
+    "Longitud": -58.188476565,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Pirane",
+    "Código UTA 2020": "34056",
+    "Latitud": -25.5645932,
+    "Longitud": -59.10290413,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Formosa",
+    "Nombre": "Ramon Lista",
+    "Código UTA 2020": "34063",
+    "Latitud": -23.18007636,
+    "Longitud": -62.03032748,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Cochinoca",
+    "Código UTA 2020": "38007",
+    "Latitud": -22.84146227,
+    "Longitud": -66.079278568,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Dr. Manuel Belgrano",
+    "Código UTA 2020": "38021",
+    "Latitud": -24.029388428,
+    "Longitud": -65.647422791,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "El Carmen",
+    "Código UTA 2020": "38014",
+    "Latitud": -24.426210403,
+    "Longitud": -65.107406616,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Humahuaca",
+    "Código UTA 2020": "38028",
+    "Latitud": -22.96907829,
+    "Longitud": -65.43667552,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Ledesma",
+    "Código UTA 2020": "38035",
+    "Latitud": -23.884973526,
+    "Longitud": -64.673904419,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Palpalá",
+    "Código UTA 2020": "38042",
+    "Latitud": -24.18229866,
+    "Longitud": -65.207740784,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Rinconada",
+    "Código UTA 2020": "38049",
+    "Latitud": -22.53894,
+    "Longitud": -65.96138,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "San Antonio",
+    "Código UTA 2020": "38056",
+    "Latitud": -24.373626709,
+    "Longitud": -65.604064941,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "San Pedro",
+    "Código UTA 2020": "38063",
+    "Latitud": -24.408639908,
+    "Longitud": -64.621589661,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Santa Barbara",
+    "Código UTA 2020": "38070",
+    "Latitud": -24.135713577,
+    "Longitud": -64.588111877,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Santa Catalina",
+    "Código UTA 2020": "38077",
+    "Latitud": -22.051202774,
+    "Longitud": -65.841766357,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Susques",
+    "Código UTA 2020": "38084",
+    "Latitud": -23.114919663,
+    "Longitud": -66.250076294,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Tilcara",
+    "Código UTA 2020": "38094",
+    "Latitud": -23.77525242,
+    "Longitud": -65.29804781,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Tumbaya",
+    "Código UTA 2020": "38098",
+    "Latitud": -23.832056045,
+    "Longitud": -65.475578308,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Valle Grande",
+    "Código UTA 2020": "38105",
+    "Latitud": -23.56311433,
+    "Longitud": -64.89713769,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Jujuy",
+    "Nombre": "Yavi",
+    "Código UTA 2020": "38112",
+    "Latitud": -22.32981174,
+    "Longitud": -65.82598231,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Atreuco",
+    "Código UTA 2020": "42007",
+    "Latitud": -37.126296112,
+    "Longitud": -63.82921122,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Caleu Caleu",
+    "Código UTA 2020": "42014",
+    "Latitud": -38.40961523,
+    "Longitud": -63.4727511,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Capital",
+    "Código UTA 2020": "42021",
+    "Latitud": -36.68302536,
+    "Longitud": -64.193794251,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Catrilo",
+    "Código UTA 2020": "42028",
+    "Latitud": -36.67294558,
+    "Longitud": -63.66446349,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Chalileo",
+    "Código UTA 2020": "42049",
+    "Latitud": -36.63620803,
+    "Longitud": -66.47691656,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Chapaleufú",
+    "Código UTA 2020": "42056",
+    "Latitud": -35.02186343,
+    "Longitud": -63.818977368,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Chical Co",
+    "Código UTA 2020": "42063",
+    "Latitud": -36.160430908,
+    "Longitud": -68.129722595,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Conhelo",
+    "Código UTA 2020": "42035",
+    "Latitud": -35.961257935,
+    "Longitud": -64.440666199,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Curaco",
+    "Código UTA 2020": "42042",
+    "Latitud": -38.741340766,
+    "Longitud": -66.436065336,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Guatraché",
+    "Código UTA 2020": "42070",
+    "Latitud": -37.57537932,
+    "Longitud": -63.54911308,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Hucal",
+    "Código UTA 2020": "42077",
+    "Latitud": -37.722442627,
+    "Longitud": -64.064544678,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Lihuel Calel",
+    "Código UTA 2020": "42084",
+    "Latitud": -38.01481736,
+    "Longitud": -65.584818951,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Limay Mahuida",
+    "Código UTA 2020": "42091",
+    "Latitud": -37.552004942,
+    "Longitud": -66.226853897,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Loventué",
+    "Código UTA 2020": "42098",
+    "Latitud": -36.723377228,
+    "Longitud": -65.224739075,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Maraco",
+    "Código UTA 2020": "42105",
+    "Latitud": -35.48140196,
+    "Longitud": -63.49637054,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Puelén",
+    "Código UTA 2020": "42112",
+    "Latitud": -37.95782503,
+    "Longitud": -67.82531198,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Quemú Quemú",
+    "Código UTA 2020": "42119",
+    "Latitud": -36.208427429,
+    "Longitud": -63.702777862,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Rancul",
+    "Código UTA 2020": "42126",
+    "Latitud": -35.08643621,
+    "Longitud": -64.92315252,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Realicó",
+    "Código UTA 2020": "42133",
+    "Latitud": -35.01791303,
+    "Longitud": -64.035117862,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Toay",
+    "Código UTA 2020": "42140",
+    "Latitud": -36.87195836,
+    "Longitud": -64.78146927,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Trenel",
+    "Código UTA 2020": "42147",
+    "Latitud": -35.741376357,
+    "Longitud": -64.447959893,
+    "Región CREA": "Oeste Arenoso",
+    "Región ID": "OAS"
+  },
+  {
+    "Provincia": "Provincia de La Pampa",
+    "Nombre": "Utracan",
+    "Código UTA 2020": "42154",
+    "Latitud": -37.439212799,
+    "Longitud": -65.023735046,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Arauco",
+    "Código UTA 2020": "46007",
+    "Latitud": -28.39283371,
+    "Longitud": -66.568237305,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Capital",
+    "Código UTA 2020": "46014",
+    "Latitud": -29.725196838,
+    "Longitud": -66.606086731,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Castro Barros",
+    "Código UTA 2020": "46021",
+    "Latitud": -28.9634753,
+    "Longitud": -66.99905992,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Chamical",
+    "Código UTA 2020": "46035",
+    "Latitud": -30.38569434,
+    "Longitud": -66.26041862,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Chilecito",
+    "Código UTA 2020": "46042",
+    "Latitud": -29.10233846,
+    "Longitud": -67.60548106,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General Felipe Varela",
+    "Código UTA 2020": "46028",
+    "Latitud": -29.280702591,
+    "Longitud": -68.155670166,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Famatina",
+    "Código UTA 2020": "46049",
+    "Latitud": -28.9015462,
+    "Longitud": -67.5409052,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Ángel Vicente Peñaloza",
+    "Código UTA 2020": "46056",
+    "Latitud": -30.515722275,
+    "Longitud": -66.864128113,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General Belgrano",
+    "Código UTA 2020": "46063",
+    "Latitud": -30.557228088,
+    "Longitud": -66.160728455,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General Juan Facundo Quiroga",
+    "Código UTA 2020": "46070",
+    "Latitud": -30.755954238,
+    "Longitud": -66.668261739,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General Lamadrid",
+    "Código UTA 2020": "46077",
+    "Latitud": -28.976200104,
+    "Longitud": -68.214889526,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General Ocampo",
+    "Código UTA 2020": "46084",
+    "Latitud": -30.878257752,
+    "Longitud": -66.180053711,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "General San Martín",
+    "Código UTA 2020": "46091",
+    "Latitud": -31.692226058,
+    "Longitud": -65.886039021,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Independencia",
+    "Código UTA 2020": "46105",
+    "Latitud": -30.44523,
+    "Longitud": -67.359382,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Rosario Vera Peñaloza",
+    "Código UTA 2020": "46112",
+    "Latitud": -31.38359642,
+    "Longitud": -66.626953125,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "San Blas de Los Sauces",
+    "Código UTA 2020": "46119",
+    "Latitud": -28.320748457,
+    "Longitud": -67.053376066,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Sanagasta",
+    "Código UTA 2020": "46126",
+    "Latitud": -29.160524552,
+    "Longitud": -67.091955631,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de La Rioja",
+    "Nombre": "Vinchina",
+    "Código UTA 2020": "46098",
+    "Latitud": -28.508514404,
+    "Longitud": -68.508041382,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Capital",
+    "Código UTA 2020": "50007",
+    "Latitud": -32.877493847,
+    "Longitud": -68.852787068,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "General Alvear",
+    "Código UTA 2020": "50014",
+    "Latitud": -35.16899569,
+    "Longitud": -66.50196772,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Godoy Cruz",
+    "Código UTA 2020": "50021",
+    "Latitud": -32.921528315,
+    "Longitud": -68.854923183,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Guaymallén",
+    "Código UTA 2020": "50028",
+    "Latitud": -32.920761473,
+    "Longitud": -68.707118584,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Junín",
+    "Código UTA 2020": "50035",
+    "Latitud": -33.150900314,
+    "Longitud": -68.408806286,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "La Paz",
+    "Código UTA 2020": "50042",
+    "Latitud": -33.558452606,
+    "Longitud": -67.252449036,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Las Heras",
+    "Código UTA 2020": "50049",
+    "Latitud": -32.240089416,
+    "Longitud": -69.455314636,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Lavalle",
+    "Código UTA 2020": "50056",
+    "Latitud": -32.810136757,
+    "Longitud": -67.221782078,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Lujan De Cuyo",
+    "Código UTA 2020": "50063",
+    "Latitud": -33.32638993,
+    "Longitud": -68.92342084,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Maipú",
+    "Código UTA 2020": "50070",
+    "Latitud": -32.940932971,
+    "Longitud": -68.642916793,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Malargüe",
+    "Código UTA 2020": "50077",
+    "Latitud": -36.479148865,
+    "Longitud": -69.826599121,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Rivadavia",
+    "Código UTA 2020": "50084",
+    "Latitud": -33.474016601,
+    "Longitud": -68.809692869,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "San Carlos",
+    "Código UTA 2020": "50091",
+    "Latitud": -33.670943614,
+    "Longitud": -68.98052274,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "San Martín",
+    "Código UTA 2020": "50098",
+    "Latitud": -33.035971682,
+    "Longitud": -68.47084072,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "San Rafael",
+    "Código UTA 2020": "50105",
+    "Latitud": -34.220188141,
+    "Longitud": -67.911636352,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Santa Rosa",
+    "Código UTA 2020": "50112",
+    "Latitud": -33.0552929,
+    "Longitud": -68.066892376,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Tunuyán",
+    "Código UTA 2020": "50119",
+    "Latitud": -33.4855528,
+    "Longitud": -69.18303881,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Mendoza",
+    "Nombre": "Tupungato",
+    "Código UTA 2020": "50126",
+    "Latitud": -33.300084738,
+    "Longitud": -69.17169565,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "25 de Mayo",
+    "Código UTA 2020": "54119",
+    "Latitud": -27.548253705,
+    "Longitud": -54.761065477,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Apóstoles",
+    "Código UTA 2020": "54007",
+    "Latitud": -28.066221237,
+    "Longitud": -55.598537445,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Cainguas",
+    "Código UTA 2020": "54014",
+    "Latitud": -27.117297152,
+    "Longitud": -54.697852783,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Candelaria",
+    "Código UTA 2020": "54021",
+    "Latitud": -27.370332718,
+    "Longitud": -55.535385132,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Capital",
+    "Código UTA 2020": "54028",
+    "Latitud": -27.476594927,
+    "Longitud": -55.921699607,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Concepción",
+    "Código UTA 2020": "54035",
+    "Latitud": -27.88963381,
+    "Longitud": -55.42634391,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Eldorado",
+    "Código UTA 2020": "54042",
+    "Latitud": -26.15509937,
+    "Longitud": -54.58240989,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "General Manuel Belgrano",
+    "Código UTA 2020": "54049",
+    "Latitud": -25.79129267,
+    "Longitud": -53.88429149,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Guaraní",
+    "Código UTA 2020": "54056",
+    "Latitud": -27.230711492,
+    "Longitud": -54.178775578,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Iguazú",
+    "Código UTA 2020": "54063",
+    "Latitud": -25.86430349,
+    "Longitud": -54.55489168,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Leandro N. Alem",
+    "Código UTA 2020": "54070",
+    "Latitud": -27.551394441,
+    "Longitud": -55.540137661,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Libertador General San Martín",
+    "Código UTA 2020": "54077",
+    "Latitud": -26.785012551,
+    "Longitud": -54.901151033,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Montecarlo",
+    "Código UTA 2020": "54084",
+    "Latitud": -26.754643617,
+    "Longitud": -54.699244772,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "Oberá",
+    "Código UTA 2020": "54091",
+    "Latitud": -27.392909097,
+    "Longitud": -55.122770418,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "San Ignacio",
+    "Código UTA 2020": "54098",
+    "Latitud": -27.251232072,
+    "Longitud": -55.530492495,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "San Javier",
+    "Código UTA 2020": "54105",
+    "Latitud": -27.751202788,
+    "Longitud": -55.008955767,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Misiones",
+    "Nombre": "San Pedro",
+    "Código UTA 2020": "54112",
+    "Latitud": -26.508554673,
+    "Longitud": -53.92302828,
+    "Región CREA": "Litoral Norte",
+    "Región ID": "LIN"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Aluminé",
+    "Código UTA 2020": "58007",
+    "Latitud": -39.30917583,
+    "Longitud": -70.92970664,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Añelo",
+    "Código UTA 2020": "58014",
+    "Latitud": -37.888034232,
+    "Longitud": -68.514489997,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Catan Lil",
+    "Código UTA 2020": "58021",
+    "Latitud": -39.314510533,
+    "Longitud": -70.154038951,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Chos Malal",
+    "Código UTA 2020": "58042",
+    "Latitud": -37.06895161,
+    "Longitud": -70.38454137,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Collon Curá",
+    "Código UTA 2020": "58028",
+    "Latitud": -40.229343414,
+    "Longitud": -70.307525635,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Confluencia",
+    "Código UTA 2020": "58035",
+    "Latitud": -38.752823157,
+    "Longitud": -68.837738725,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Huiliches",
+    "Código UTA 2020": "58049",
+    "Latitud": -39.73103584,
+    "Longitud": -71.07764941,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Lacar",
+    "Código UTA 2020": "58056",
+    "Latitud": -40.200557709,
+    "Longitud": -71.060089111,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Loncopué",
+    "Código UTA 2020": "58063",
+    "Latitud": -38.143833175,
+    "Longitud": -70.528734,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Los Lagos",
+    "Código UTA 2020": "58070",
+    "Latitud": -40.727523804,
+    "Longitud": -71.677230835,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Minas",
+    "Código UTA 2020": "58077",
+    "Latitud": -37.05693858,
+    "Longitud": -70.77617021,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Ñorquin",
+    "Código UTA 2020": "58084",
+    "Latitud": -37.357940674,
+    "Longitud": -70.870056152,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Pehuenches",
+    "Código UTA 2020": "58091",
+    "Latitud": -36.925289154,
+    "Longitud": -69.985023498,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Picún Leufú",
+    "Código UTA 2020": "58098",
+    "Latitud": -39.183082581,
+    "Longitud": -69.37890625,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Picunches",
+    "Código UTA 2020": "58105",
+    "Latitud": -38.34971979,
+    "Longitud": -69.939951421,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Neuquén",
+    "Nombre": "Zapala",
+    "Código UTA 2020": "58112",
+    "Latitud": -38.822467804,
+    "Longitud": -70.008003235,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "25 de Mayo",
+    "Código UTA 2020": "62091",
+    "Latitud": -41.5127138,
+    "Longitud": -69.51735638,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "9 de Julio",
+    "Código UTA 2020": "62049",
+    "Latitud": -41.250133514,
+    "Longitud": -66.896430969,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Adolfo Alsina",
+    "Código UTA 2020": "62007",
+    "Latitud": -40.633583069,
+    "Longitud": -63.509506226,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Avellaneda",
+    "Código UTA 2020": "62014",
+    "Latitud": -39.60125657,
+    "Longitud": -65.49681844,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Bariloche",
+    "Código UTA 2020": "62021",
+    "Latitud": -41.898146079,
+    "Longitud": -71.503164693,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Conesa",
+    "Código UTA 2020": "62028",
+    "Latitud": -40.220565796,
+    "Longitud": -64.070602417,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "El Cuy",
+    "Código UTA 2020": "62035",
+    "Latitud": -39.866718292,
+    "Longitud": -68.703437805,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "General Roca",
+    "Código UTA 2020": "62042",
+    "Latitud": -39.13837603,
+    "Longitud": -66.909520748,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Ñorquincó",
+    "Código UTA 2020": "62056",
+    "Latitud": -41.68252462,
+    "Longitud": -70.71325062,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Pichi Mahuida",
+    "Código UTA 2020": "62063",
+    "Latitud": -39.0626,
+    "Longitud": -63.9792,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Pilcaniyeu",
+    "Código UTA 2020": "62070",
+    "Latitud": -41.32152141,
+    "Longitud": -70.27466678,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "San Antonio",
+    "Código UTA 2020": "62077",
+    "Latitud": -40.778587341,
+    "Longitud": -65.050743103,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Río Negro",
+    "Nombre": "Valcheta",
+    "Código UTA 2020": "62084",
+    "Latitud": -41.214345515,
+    "Longitud": -66.338309668,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Anta",
+    "Código UTA 2020": "66007",
+    "Latitud": -24.250011444,
+    "Longitud": -64.140953064,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Cachi",
+    "Código UTA 2020": "66014",
+    "Latitud": -25.020489232,
+    "Longitud": -66.097021202,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Cafayate",
+    "Código UTA 2020": "66021",
+    "Latitud": -26.10228924,
+    "Longitud": -66.015506705,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Capital",
+    "Código UTA 2020": "66028",
+    "Latitud": -24.704942034,
+    "Longitud": -65.470510545,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Cerrillos",
+    "Código UTA 2020": "66035",
+    "Latitud": -24.95319832,
+    "Longitud": -65.42243492,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Chicoana",
+    "Código UTA 2020": "66042",
+    "Latitud": -25.15339187,
+    "Longitud": -65.69363231,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "General Güemes",
+    "Código UTA 2020": "66049",
+    "Latitud": -24.75876236,
+    "Longitud": -64.993942261,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "General Jose de San Martín",
+    "Código UTA 2020": "66056",
+    "Latitud": -22.164599818,
+    "Longitud": -63.9088426,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Guachipas",
+    "Código UTA 2020": "66063",
+    "Latitud": -25.77241,
+    "Longitud": -65.34234,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Iruya",
+    "Código UTA 2020": "66070",
+    "Latitud": -22.7747986,
+    "Longitud": -65.14338644,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "La Caldera",
+    "Código UTA 2020": "66077",
+    "Latitud": -24.57701543,
+    "Longitud": -65.368728969,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "La Candelaria",
+    "Código UTA 2020": "66084",
+    "Latitud": -26.14426,
+    "Longitud": -65.0142,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "La Poma",
+    "Código UTA 2020": "66091",
+    "Latitud": -23.78698349,
+    "Longitud": -66.067832947,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "La Viña",
+    "Código UTA 2020": "66098",
+    "Latitud": -25.623203278,
+    "Longitud": -65.613235474,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Los Andes",
+    "Código UTA 2020": "66105",
+    "Latitud": -24.654569626,
+    "Longitud": -67.303604126,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Metán",
+    "Código UTA 2020": "66112",
+    "Latitud": -25.51643753,
+    "Longitud": -64.605926514,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Molinos",
+    "Código UTA 2020": "66119",
+    "Latitud": -25.394729614,
+    "Longitud": -66.38092804,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Orán",
+    "Código UTA 2020": "66126",
+    "Latitud": -22.9746,
+    "Longitud": -64.41384,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Rivadavia",
+    "Código UTA 2020": "66133",
+    "Latitud": -22.49881,
+    "Longitud": -62.40759,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Rosario de la Frontera",
+    "Código UTA 2020": "66140",
+    "Latitud": -25.89667,
+    "Longitud": -64.7655,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Rosario de Lerma",
+    "Código UTA 2020": "66147",
+    "Latitud": -24.141889572,
+    "Longitud": -66.019447327,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "San Carlos",
+    "Código UTA 2020": "66154",
+    "Latitud": -25.54455,
+    "Longitud": -65.82056,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Salta",
+    "Nombre": "Santa Victoria",
+    "Código UTA 2020": "66161",
+    "Latitud": -22.17502,
+    "Longitud": -64.93502,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "25 de Mayo",
+    "Código UTA 2020": "70126",
+    "Latitud": -31.73063248,
+    "Longitud": -68.34501277,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "9 de Julio",
+    "Código UTA 2020": "70063",
+    "Latitud": -31.702191264,
+    "Longitud": -68.368622065,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Albardon",
+    "Código UTA 2020": "70007",
+    "Latitud": -31.326969147,
+    "Longitud": -68.417236328,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Angaco",
+    "Código UTA 2020": "70014",
+    "Latitud": -31.45675103,
+    "Longitud": -68.34171324,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Calingasta",
+    "Código UTA 2020": "70021",
+    "Latitud": -31.30289373,
+    "Longitud": -69.41260371,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Capital",
+    "Código UTA 2020": "70028",
+    "Latitud": -31.537197038,
+    "Longitud": -68.525018317,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Caucete",
+    "Código UTA 2020": "70035",
+    "Latitud": -31.70272711,
+    "Longitud": -68.28587359,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Chimbas",
+    "Código UTA 2020": "70042",
+    "Latitud": -31.495614115,
+    "Longitud": -68.563706793,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Iglesia",
+    "Código UTA 2020": "70049",
+    "Latitud": -30.270130157,
+    "Longitud": -69.191162109,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Jachal",
+    "Código UTA 2020": "70056",
+    "Latitud": -30.20949542,
+    "Longitud": -68.74673275,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Pocito",
+    "Código UTA 2020": "70070",
+    "Latitud": -31.72999788,
+    "Longitud": -68.56591515,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Rawson",
+    "Código UTA 2020": "70077",
+    "Latitud": -31.6492,
+    "Longitud": -68.5015,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Rivadavia",
+    "Código UTA 2020": "70084",
+    "Latitud": -31.528684115,
+    "Longitud": -68.598203792,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "San Martín",
+    "Código UTA 2020": "70091",
+    "Latitud": -31.492270107,
+    "Longitud": -68.300502855,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Santa Lucía",
+    "Código UTA 2020": "70098",
+    "Latitud": -31.509735114,
+    "Longitud": -68.502685795,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Sarmiento",
+    "Código UTA 2020": "70105",
+    "Latitud": -32.02091413,
+    "Longitud": -68.39270346,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Ullum",
+    "Código UTA 2020": "70112",
+    "Latitud": -31.4627522,
+    "Longitud": -68.73605428,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Valle Fértil",
+    "Código UTA 2020": "70119",
+    "Latitud": -30.804157736,
+    "Longitud": -67.366234996,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Juan",
+    "Nombre": "Zonda",
+    "Código UTA 2020": "70133",
+    "Latitud": -31.774671555,
+    "Longitud": -68.914604187,
+    "Región CREA": "Valles Cordilleranos",
+    "Región ID": "VAC"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Ayacucho",
+    "Código UTA 2020": "74007",
+    "Latitud": -32.136513149,
+    "Longitud": -66.854453888,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Belgrano",
+    "Código UTA 2020": "74014",
+    "Latitud": -32.52213375,
+    "Longitud": -66.48595015,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Chacabuco",
+    "Código UTA 2020": "74028",
+    "Latitud": -32.563397622,
+    "Longitud": -65.031530745,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Coronel Pringles",
+    "Código UTA 2020": "74021",
+    "Latitud": -33.120748488,
+    "Longitud": -65.966843949,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "General Pedernera",
+    "Código UTA 2020": "74035",
+    "Latitud": -33.7828408,
+    "Longitud": -65.72200942,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Gobernador Dupuy",
+    "Código UTA 2020": "74042",
+    "Latitud": -34.823871612,
+    "Longitud": -66.448936462,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Juan Martín de Pueyrredón",
+    "Código UTA 2020": "74056",
+    "Latitud": -33.368777964,
+    "Longitud": -66.40741813,
+    "Región CREA": "Semiárida",
+    "Región ID": "SEA"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Junín",
+    "Código UTA 2020": "74049",
+    "Latitud": -32.31398017,
+    "Longitud": -65.41102538,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de San Luis",
+    "Nombre": "Libertador General San Martín",
+    "Código UTA 2020": "74063",
+    "Latitud": -32.771430969,
+    "Longitud": -65.766944885,
+    "Región CREA": "Centro",
+    "Región ID": "CEN"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Corpen Aike",
+    "Código UTA 2020": "78007",
+    "Latitud": -50.203589682,
+    "Longitud": -69.91434697,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Deseado",
+    "Código UTA 2020": "78014",
+    "Latitud": -47.887138367,
+    "Longitud": -66.951148987,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Guer Aike",
+    "Código UTA 2020": "78021",
+    "Latitud": -51.8701101,
+    "Longitud": -70.5994988,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Lago Argentino",
+    "Código UTA 2020": "78028",
+    "Latitud": -50.27098465,
+    "Longitud": -71.892753601,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Lago Buenos Aires",
+    "Código UTA 2020": "78035",
+    "Latitud": -46.04208374,
+    "Longitud": -71.658737183,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Magallanes",
+    "Código UTA 2020": "78042",
+    "Latitud": -49.064224243,
+    "Longitud": -68.324668884,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Cruz",
+    "Nombre": "Río Chico",
+    "Código UTA 2020": "78049",
+    "Latitud": -47.454299927,
+    "Longitud": -71.845031738,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "9 de Julio",
+    "Código UTA 2020": "82077",
+    "Latitud": -29.075847203,
+    "Longitud": -61.736250688,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Belgrano",
+    "Código UTA 2020": "82007",
+    "Latitud": -32.7494032,
+    "Longitud": -61.5381149,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Caseros",
+    "Código UTA 2020": "82014",
+    "Latitud": -33.2334798,
+    "Longitud": -61.682947,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Castellanos",
+    "Código UTA 2020": "82021",
+    "Latitud": -31.381849289,
+    "Longitud": -61.370059967,
+    "Región CREA": "Santa Fe Centro",
+    "Región ID": "SFC"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Constitución",
+    "Código UTA 2020": "82028",
+    "Latitud": -33.3790173,
+    "Longitud": -61.3544315,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Garay",
+    "Código UTA 2020": "82035",
+    "Latitud": -31.1523125,
+    "Longitud": -60.1365521,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "General López",
+    "Código UTA 2020": "82042",
+    "Latitud": -34.174710725,
+    "Longitud": -62.050326774,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "General Obligado",
+    "Código UTA 2020": "82049",
+    "Latitud": -28.6765561,
+    "Longitud": -59.7497004,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Iriondo",
+    "Código UTA 2020": "82056",
+    "Latitud": -32.929034308,
+    "Longitud": -61.265623766,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "La Capital",
+    "Código UTA 2020": "82063",
+    "Latitud": -31.188581467,
+    "Longitud": -60.626773834,
+    "Región CREA": "Santa Fe Centro",
+    "Región ID": "SFC"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Las Colónias",
+    "Código UTA 2020": "82070",
+    "Latitud": -31.6618986,
+    "Longitud": -61.0112577,
+    "Región CREA": "Santa Fe Centro",
+    "Región ID": "SFC"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Rosario",
+    "Código UTA 2020": "82084",
+    "Latitud": -33.079010075,
+    "Longitud": -60.913799568,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Cristóbal",
+    "Código UTA 2020": "82091",
+    "Latitud": -29.887499217,
+    "Longitud": -61.571827677,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Javier",
+    "Código UTA 2020": "82098",
+    "Latitud": -29.42420679,
+    "Longitud": -59.979554751,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Jerónimo",
+    "Código UTA 2020": "82105",
+    "Latitud": -32.2399352,
+    "Longitud": -61.231266,
+    "Región CREA": "Santa Fe Centro",
+    "Región ID": "SFC"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Justo",
+    "Código UTA 2020": "82112",
+    "Latitud": -30.8130411,
+    "Longitud": -60.3886502,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Lorenzo",
+    "Código UTA 2020": "82119",
+    "Latitud": -32.695030212,
+    "Longitud": -60.730968475,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "San Martín",
+    "Código UTA 2020": "82126",
+    "Latitud": -31.842542648,
+    "Longitud": -61.562709808,
+    "Región CREA": "Sur de Santa Fe",
+    "Región ID": "SSF"
+  },
+  {
+    "Provincia": "Provincia de Santa Fe",
+    "Nombre": "Vera",
+    "Código UTA 2020": "82133",
+    "Latitud": -29.725727982,
+    "Longitud": -60.289512873,
+    "Región CREA": "Norte de Santa Fe",
+    "Región ID": "NSF"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Aguirre",
+    "Código UTA 2020": "86007",
+    "Latitud": -28.968503224,
+    "Longitud": -62.900291325,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Alberdi",
+    "Código UTA 2020": "86014",
+    "Latitud": -26.789466858,
+    "Longitud": -62.705165863,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Atamisqui",
+    "Código UTA 2020": "86021",
+    "Latitud": -28.82072,
+    "Longitud": -63.74698,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Avellaneda",
+    "Código UTA 2020": "86028",
+    "Latitud": -28.70814175,
+    "Longitud": -63.1050531,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Banda",
+    "Código UTA 2020": "86035",
+    "Latitud": -27.59548811,
+    "Longitud": -64.41117012,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Belgrano",
+    "Código UTA 2020": "86042",
+    "Latitud": -28.89628,
+    "Longitud": -62.62596,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Capital",
+    "Código UTA 2020": "86049",
+    "Latitud": -27.80983349,
+    "Longitud": -64.48893926,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Choya",
+    "Código UTA 2020": "86063",
+    "Latitud": -28.599575043,
+    "Longitud": -64.665016174,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Copo",
+    "Código UTA 2020": "86056",
+    "Latitud": -25.72948778,
+    "Longitud": -63.46601397,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Figueroa",
+    "Código UTA 2020": "86070",
+    "Latitud": -26.914608594,
+    "Longitud": -63.529854431,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "General Taboada",
+    "Código UTA 2020": "86077",
+    "Latitud": -28.41299021,
+    "Longitud": -62.79434139,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Guasayán",
+    "Código UTA 2020": "86084",
+    "Latitud": -27.850400925,
+    "Longitud": -65.011795044,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Jiménez",
+    "Código UTA 2020": "86091",
+    "Latitud": -26.688954306,
+    "Longitud": -64.454471239,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Juan Felipe Ibarra",
+    "Código UTA 2020": "86098",
+    "Latitud": -27.95003,
+    "Longitud": -61.84724,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Loreto",
+    "Código UTA 2020": "86105",
+    "Latitud": -28.476353257,
+    "Longitud": -64.045073961,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Mitre",
+    "Código UTA 2020": "86112",
+    "Latitud": -29.291571662,
+    "Longitud": -63.034503114,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Moreno",
+    "Código UTA 2020": "86119",
+    "Latitud": -27.413858414,
+    "Longitud": -63.065467834,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Ojo de Agua",
+    "Código UTA 2020": "86126",
+    "Latitud": -29.72712,
+    "Longitud": -63.42753,
+    "Región CREA": "Córdoba Norte",
+    "Región ID": "COR"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Pellegrini",
+    "Código UTA 2020": "86133",
+    "Latitud": -26.283187866,
+    "Longitud": -64.456840515,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Quebrachos",
+    "Código UTA 2020": "86140",
+    "Latitud": -29.79049,
+    "Longitud": -63.18682,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Río Hondo",
+    "Código UTA 2020": "86147",
+    "Latitud": -27.60805727,
+    "Longitud": -64.54365708,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Rivadavia",
+    "Código UTA 2020": "86154",
+    "Latitud": -29.83512,
+    "Longitud": -62.16991,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Robles",
+    "Código UTA 2020": "86161",
+    "Latitud": -27.84078886,
+    "Longitud": -63.93408912,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Salavina",
+    "Código UTA 2020": "86168",
+    "Latitud": -29.034310364,
+    "Longitud": -63.338746612,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "San Martín",
+    "Código UTA 2020": "86175",
+    "Latitud": -28.2954,
+    "Longitud": -63.86655,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Sarmiento",
+    "Código UTA 2020": "86182",
+    "Latitud": -28.081445866,
+    "Longitud": -63.33466823,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "Provincia de Santiago del Estero",
+    "Nombre": "Silipica",
+    "Código UTA 2020": "86189",
+    "Latitud": -28.10344,
+    "Longitud": -64.08491,
+    "Región CREA": "Chaco Santiagueño",
+    "Región ID": "CHS"
+  },
+  {
+    "Provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+    "Nombre": "Antártida Argentina",
+    "Código UTA 2020": "94028",
+    "Latitud": -64.155802312,
+    "Longitud": -60.955074053,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "Nombre": "Islas del Atlantico Sur",
+    "Código UTA 2020": "94021",
+    "Latitud": -51.806531825,
+    "Longitud": -58.959658956,
+    "Región CREA": "Sin región",
+    "Región ID": "SR"
+  },
+  {
+    "Provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "Nombre": "Río Grande",
+    "Código UTA 2020": "94007",
+    "Latitud": -52.884128633,
+    "Longitud": -68.448783124,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "Nombre": "Tolhuin",
+    "Código UTA 2020": "94035",
+    "Latitud": -54.511386755,
+    "Longitud": -67.195804464,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "Nombre": "Ushuaia",
+    "Código UTA 2020": "94014",
+    "Latitud": -54.637686083,
+    "Longitud": -67.766940855,
+    "Región CREA": "Patagonia",
+    "Región ID": "PAT"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Burruyacú",
+    "Código UTA 2020": "90007",
+    "Latitud": -26.36994,
+    "Longitud": -64.78136,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Capital",
+    "Código UTA 2020": "90084",
+    "Latitud": -26.82900979,
+    "Longitud": -65.210544181,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Chicligasta",
+    "Código UTA 2020": "90021",
+    "Latitud": -27.3126707,
+    "Longitud": -65.4820785,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Cruz Alta",
+    "Código UTA 2020": "90014",
+    "Latitud": -27.0201218,
+    "Longitud": -65.0182022,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Famaillá",
+    "Código UTA 2020": "90028",
+    "Latitud": -27.11478,
+    "Longitud": -65.42955,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Graneros",
+    "Código UTA 2020": "90035",
+    "Latitud": -27.6423966,
+    "Longitud": -65.5086366,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Juan Bautista Alberdi",
+    "Código UTA 2020": "90042",
+    "Latitud": -27.60163,
+    "Longitud": -65.5373,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "La Cocha",
+    "Código UTA 2020": "90049",
+    "Latitud": -27.756055832,
+    "Longitud": -65.599121094,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Leales",
+    "Código UTA 2020": "90056",
+    "Latitud": -27.140039444,
+    "Longitud": -65.134643555,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Lules",
+    "Código UTA 2020": "90063",
+    "Latitud": -26.94954,
+    "Longitud": -65.30289,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Monteros",
+    "Código UTA 2020": "90070",
+    "Latitud": -27.138624191,
+    "Longitud": -65.443618774,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Río Chico",
+    "Código UTA 2020": "90077",
+    "Latitud": -27.4543092,
+    "Longitud": -65.603622,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Simoca",
+    "Código UTA 2020": "90091",
+    "Latitud": -27.409250259,
+    "Longitud": -65.268943787,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Tafí del Valle",
+    "Código UTA 2020": "90098",
+    "Latitud": -26.596217,
+    "Longitud": -65.8573856,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Tafí Viejo",
+    "Código UTA 2020": "90105",
+    "Latitud": -26.741963216,
+    "Longitud": -65.563156447,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Trancas",
+    "Código UTA 2020": "90112",
+    "Latitud": -26.385499954,
+    "Longitud": -65.363098145,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  },
+  {
+    "Provincia": "Provincia de Tucumán",
+    "Nombre": "Yerba Buena",
+    "Código UTA 2020": "90119",
+    "Latitud": -26.778963958,
+    "Longitud": -65.285320842,
+    "Región CREA": "Noroeste Argentino",
+    "Región ID": "NOA"
+  }
+]
